@@ -1,0 +1,9 @@
+name: TwicePetMenu
+main: xsoap\Pet
+api: 3.9.1
+version: 1
+author: xsoqp
+
+commands:
+  pet:
+    description: Pet UI
